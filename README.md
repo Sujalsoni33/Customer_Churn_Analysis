@@ -10,12 +10,6 @@ This project analyzes customer churn in the telecom industry using machine learn
 
 → Exploratory Data Analysis (EDA) with visual insights
 
-→ Feature engineering for better model accuracy
-
-→ Machine learning model implementation
-
-→ Performance evaluation with key metrics
-
 🛠️ Tech Stack
 
 → Python 🐍
@@ -23,11 +17,3 @@ This project analyzes customer churn in the telecom industry using machine learn
 → Pandas, NumPy for data manipulation
 
 → Matplotlib, Seaborn for visualization
-
-🔍 Key Insights
-
-→ Customer demographics, contract type, and service usage significantly impact churn.
-
-→ Monthly charges and tenure have a strong correlation with customer retention.
-
-→ The best-performing model achieves high accuracy in predicting churn.
